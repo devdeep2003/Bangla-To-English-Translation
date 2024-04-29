@@ -44,9 +44,6 @@ The default settings are configured for Bangla to English translation. Adjustmen
 
 Contributions aimed at enhancing and refining this program are highly appreciated. Interested contributors are encouraged to fork the repository, implement modifications, and submit pull requests.
 
-## License
-
-Please insert an appropriate license here to match your distribution preferences.
 
 ---
 
